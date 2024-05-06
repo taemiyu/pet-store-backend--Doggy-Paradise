@@ -3,7 +3,8 @@
 >本寵物平台網站使用maven進行套件管理，以Spring Boot框架進行開發，並再application.properties檔中儲存專案執行所需的設定資料。相關設定請參考下方的開始。
 
 ## 環境
-- MySQL:8.0.31
+- MySQL : 8.0.31
+- MongoDB : 7.0.9
 - JDK 17
 ## 功能特色
 
