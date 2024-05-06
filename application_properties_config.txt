@@ -13,6 +13,10 @@ spring.datasource.password=
 #spring.datasource.username=
 #spring.datasource.password=
 
+#Cloudinary Config
+cloud_api_secret=
+cloud_api_key=
+cloud_name=
 
 #email sender config(發信功能)
 spring.mail.host=smtp.gmail.com
