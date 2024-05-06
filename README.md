@@ -23,7 +23,7 @@
 
 - 使用Spring Boot在Maven專案運行localhost 8080，Vue專案使用vite套件運行在localhost 5173。
 
-- SQL Query位於DoogyParadise_SQL.sql，可直接於MySQL建置資料庫環境，員工須於資料庫自行新增一筆。
+- SQL Query位於DoggyParadise_SQL.sql，可直接於MySQL建置資料庫環境，員工須於資料庫自行新增一筆。
 
 - application.properties與Google第三方登入的properties設定為application_properties_config.txt及google_OAuth2_config.txt，需自行設定(並放入專案resource資料夾中)。
 
